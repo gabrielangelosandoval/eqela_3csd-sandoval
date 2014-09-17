@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# 3CSD_Sandoval
+#
+
+projectname: 3CSD_Sandoval
+vendorid: com.3csd_sandoval
+mainmodule: com.3csd_sandoval.3csdsandoval
